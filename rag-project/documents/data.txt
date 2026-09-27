@@ -1,0 +1,5 @@
+Python is a programming language used for software development.
+Docker is a containerization platform used to package applications.
+RAG stands for Retrieval Augmented Generation.
+FAISS is used for vector similarity search.
+Machine Learning is a subset of Artificial Intelligence.
